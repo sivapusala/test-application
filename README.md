@@ -1,14 +1,6 @@
 This project was bootstrapped with Create React App.
 
-To run the application, please perform the tasks. below: <br>
-
-
-## Table of Contents
-
-- [Installing a Dependency](#installing-a-dependency)
-- [Scripts](#available-scripts)
-  - [npm start](#npm-start)
-  - [npm run build](#npm-run-build)
+To run the application, please perform the below tasks: <br>
 
 
 For the project to build,
@@ -38,3 +30,9 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
+
+
+
+
+
+
