@@ -1,29 +1,29 @@
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with Create React App.
 
-To run the application,please perform the tasks. below: <br>
+To run the application, please perform the tasks. below: <br>
 
 
 ## Table of Contents
 
-- [Available Scripts](#available-scripts)
+- [Installing a Dependency](#installing-a-dependency)
+- [Scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm run build](#npm-run-build)
-- [Installing a Dependency](#installing-a-dependency)
 
 
 For the project to build,
 
-## Available Scripts
-
-In the project directory, run:
-
 ## Installing a Dependency
 
-You may install other dependencies (for example, React Router) with `npm`:
+You need to install the dependencies with `npm`:
 
 ```sh
 npm install
 ```
+
+## Scripts
+
+In the project directory, run:
 
 ### `npm run build`
 
@@ -38,9 +38,3 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
-
-
-
-
-
-
